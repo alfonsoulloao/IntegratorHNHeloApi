@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OFGDTp3ma+MXW2+lrP+gpEJTWC6CdyOwJenT5tgAZIU=",
+  "Source": "CL.Indra.Integrator.Api",
+  "BasePath": "_content/CL.Indra.Integrator.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\bin\Debug\net6.0\CL.Indra.Integrator.Domain.deps.json
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\bin\Debug\net6.0\CL.Indra.Integrator.Domain.dll
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\bin\Debug\net6.0\CL.Indra.Integrator.Domain.pdb
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\obj\Debug\net6.0\CL.Indra.Integrator.Domain.csproj.AssemblyReference.cache
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\obj\Debug\net6.0\CL.Indra.Integrator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\obj\Debug\net6.0\CL.Indra.Integrator.Domain.AssemblyInfoInputs.cache
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\obj\Debug\net6.0\CL.Indra.Integrator.Domain.AssemblyInfo.cs
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\obj\Debug\net6.0\CL.Indra.Integrator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\obj\Debug\net6.0\CL.Indra.Integrator.Domain.dll
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\obj\Debug\net6.0\refint\CL.Indra.Integrator.Domain.dll
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\obj\Debug\net6.0\CL.Indra.Integrator.Domain.pdb
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Domain\obj\Debug\net6.0\ref\CL.Indra.Integrator.Domain.dll

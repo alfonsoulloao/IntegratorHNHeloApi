@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CL.Indra.Integrator.Application/1.0.0": {
+        "dependencies": {
+          "CL.Indra.Integrator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CL.Indra.Integrator.Application.dll": {}
+        }
+      },
+      "CL.Indra.Integrator.Domain/1.0.0": {
+        "runtime": {
+          "CL.Indra.Integrator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CL.Indra.Integrator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CL.Indra.Integrator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

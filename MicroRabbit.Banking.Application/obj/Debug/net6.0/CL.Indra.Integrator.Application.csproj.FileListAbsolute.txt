@@ -1,0 +1,15 @@
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\bin\Debug\net6.0\CL.Indra.Integrator.Application.deps.json
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\bin\Debug\net6.0\CL.Indra.Integrator.Application.dll
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\bin\Debug\net6.0\CL.Indra.Integrator.Application.pdb
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\bin\Debug\net6.0\CL.Indra.Integrator.Domain.dll
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\bin\Debug\net6.0\CL.Indra.Integrator.Domain.pdb
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\CL.Indra.Integrator.Application.csproj.AssemblyReference.cache
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\CL.Indra.Integrator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\CL.Indra.Integrator.Application.AssemblyInfoInputs.cache
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\CL.Indra.Integrator.Application.AssemblyInfo.cs
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\CL.Indra.Integrator.Application.csproj.CoreCompileInputs.cache
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\CL.Indra.Integrator.Application.csproj.CopyComplete
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\CL.Indra.Integrator.Application.dll
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\refint\CL.Indra.Integrator.Application.dll
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\CL.Indra.Integrator.Application.pdb
+C:\Users\SoporteIT\Documents\hn_helo_api\IntegratorHNHeloApi\MicroRabbit.Banking.Application\obj\Debug\net6.0\ref\CL.Indra.Integrator.Application.dll

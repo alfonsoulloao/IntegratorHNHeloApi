@@ -1,0 +1,491 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
+        "projectName": "MicroRabbit.Banking.Api",
+        "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
+        "packagesPath": "C:\\Users\\SoporteIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
+        "projectName": "MicroRabbit.Banking.Application",
+        "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
+        "packagesPath": "C:\\Users\\SoporteIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
+        "projectName": "MicroRabbit.Banking.Data",
+        "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
+        "packagesPath": "C:\\Users\\SoporteIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
+        "projectName": "MicroRabbit.Banking.Domain",
+        "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
+        "packagesPath": "C:\\Users\\SoporteIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "projectName": "MicroRabbit.Domain.Core",
+        "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\SoporteIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+        "projectName": "MicroRabbit.Infra.Bus",
+        "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+        "packagesPath": "C:\\Users\\SoporteIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Newtonsoft.Json.Schema": {
+              "target": "Package",
+              "version": "[3.0.15, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+        "projectName": "MicroRabbit.Infra.IoC",
+        "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\SoporteIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
+                "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj"
+              },
+              "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
+                "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj"
+              },
+              "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+              },
+              "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              },
+              "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
+                "projectPath": "C:\\Users\\SoporteIT\\Documents\\hn_helo_api\\IspobHNHeloApi\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
