@@ -1,7 +1,7 @@
 {
     "gitflow4code.init": {
         "develop": "develop",
-        "master": "main",
+        "master": "master",
         "releases": "release/",
         "hotfixes": "hotfix/",
         "features": "feature/",
